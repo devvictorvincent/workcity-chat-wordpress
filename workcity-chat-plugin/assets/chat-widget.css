@@ -1,0 +1,12 @@
+ #workcity-chat-widget {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 400px;
+    margin: 0 auto;
+}
+@media (max-width: 768px) {
+    #workcity-chat-widget {
+        max-width: 100%;
+    }
+}
